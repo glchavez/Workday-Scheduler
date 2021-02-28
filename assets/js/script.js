@@ -46,3 +46,15 @@ function updatePage() {
     });
     
 };
+
+updatePage();
+
+// Save button to store entered content in local storage
+$(".saveBtn").on("click", function () {
+
+    var value = $(this).siblings(".description").val();
+    var time = $(this).parent().attr("id");
+    console.log("time: " + time)
+
+    localStorage.setItem(time, value);
+});
