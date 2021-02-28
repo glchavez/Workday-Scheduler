@@ -21,7 +21,13 @@ Each hour slot is color coded to represent the status of events. Grey represents
 
 All tasks entered will stay on the schedule for the day and removed once business hours have passed (cleared at 6 pm).
 
-![Scheduler Layout]()
+### Work Hours:
+
+![Scheduler Layout: work hours](assets/images/scheduler_layout.png)
+
+### Non-Work Hours:
+
+![Scheduler Layout: work hours](assets/images/non_work_hours.png)
 
 
 ## Credits
