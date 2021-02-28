@@ -10,7 +10,7 @@ Through the creation of this application, I was challanged with having one click
 
 If I was to update this application in the near future, I would like to create more text slots for each hour to help seperate tasks within the same hour.
 
-To view and use this application, please [click here]().
+To view and use this application, please [click here](https://glchavez.github.io/Workday-Scheduler/).
 
 
 ## Usage 
