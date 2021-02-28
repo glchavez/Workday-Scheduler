@@ -23,6 +23,26 @@ function updatePage() {
     $("#16 .description").val(localStorage.getItem("16"));
     $("#17 .description").val(localStorage.getItem("17"));    
 
+    // Update each time block with the current, past, and present class
+    $(".time-block").each(function () {
 
+        var blockHour = parseInt($(this).attr("id"));
+
+        console.log("blockHour: " + blockHour)
+
+        if (blockHour === currentTime) {
+            $(this).addClass("present");
+        }
+        else if (blockHour < currentTime) {
+
+            $(this).addClass("past");
+            $(this).removeClass("present");
+        }
+        else {
+            $(this).removeClass("past");
+            $(this).removeClass("present");
+            $(this).addClass("future");
+        }
+    });
     
 };
