@@ -13,6 +13,18 @@ If I was to update this application in the near future, I would like to create m
 To view and use this application, please [click here](https://glchavez.github.io/Workday-Scheduler/).
 
 
+## Technologies Used
+
+<ul>
+<li>HTML</li>
+<li>Bootstrap</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>jQuery</li>
+<li>VS Code</li>
+</ul>
+
+
 ## Usage 
 
 To use this application, simply click on the text area in the time slot your event is scheduled for and enter the task. Once entered, click on the save button to save the task. If this task changes or needs to be updated, re-enter the new task and save the update. 
@@ -35,6 +47,11 @@ All tasks entered will stay on the schedule for the day and removed once busines
 I would like to provide credit to [The Denver Univeristy Coding Bootcamp](https://bootcamp.du.edu/coding/) for providing me with the materials, intstructions, and one-on-one assistance to perform this project.
 
 Recognition is provided to [W3Schools](https://www.w3schools.com/) for providing me with resources to better understand JavaScript and jQuery concepts and how to implement them. I would also like to give credit to [Scrimba](https://scrimba.com/scrim/cwpDGhG) for providing a basic tutorial of Moment.js.
+
+
+## Contact Information
+
+To contact me, please feel free to email me at giochavez320@gmail.com.
 
 
 ## License
