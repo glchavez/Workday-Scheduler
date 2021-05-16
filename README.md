@@ -1,8 +1,10 @@
 # Workday-Scheduler
 
-## Description 
+This application is a simple, easy to use task tracker for any working individual that keeps their daily to-do's listed in an organized place. 
 
-This application assists individuals with their daily schedules by providing an easy to use application that tracks hourly tasks and shows what tasks are past the current hour. The application resets itself after 5 pm for the next business day, making use for the user more convenient.
+## Overview
+
+This application tracks hourly tasks and shows what tasks are past the current hour. The application resets itself after 5 pm for the next business day, making use for the user more convenient.
 
 This application was created to improve my skills in JavaScript and jQuery. As well, it was created for users to easily track their daily schedules.
 
